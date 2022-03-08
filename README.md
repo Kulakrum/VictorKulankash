@@ -12,7 +12,7 @@ A Software Engineering enthusiast from Kenya
 
 💬 Ask me about Python, C, Arduino, Raspberry Pi, Git & GitHub and basics of Linux and Web Development
 
-📫 How to reach me: You can message me on LinkedIn
+📫 How to reach me: You can message me on LinkedIn: www.linkedin.com/in/victorkulankash
 
 📄 Know about my experiences on LinkedIn 
 
